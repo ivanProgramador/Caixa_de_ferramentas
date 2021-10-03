@@ -1,0 +1,6 @@
+1 - Orakle
+2 - mysql
+3 - SQL server
+4 - PostgreeSQL
+5 - DB2 -IBM
+6 - Cassandra
